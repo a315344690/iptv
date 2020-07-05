@@ -140,4 +140,4 @@ http://120.221.44.101:8089/PLTV/88888888/224/3221226075/index.m3u8
 #EXTINF:-1 tvg-id="1434" tvg-name="山东生活" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_shenghuo.png" group-title="省内频道",山东生活
 http://120.221.5.102:8089/PLTV/88888888/224/3221225841/index.m3u8
 #EXTINF:-1 tvg-id="1432" tvg-name="山东影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_yingshi.png" group-title="省内频道",山东影视
-http://120.221.5.178:8089/ucdn.sd.chinamobile.com/2/00/SNM/CHANNEL00000337/index.m3u8?fmt=ts2hls
+http://120.221.5.113:8089/PLTV/88888888/224/3221226044/index.m3u8
