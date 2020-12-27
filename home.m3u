@@ -58,7 +58,7 @@ http://10.0.0.1:8012/rtp/225.1.0.126:1025
 #EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视",天津卫视
 http://10.0.0.1:8012/rtp/225.1.0.124:1025
 #EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
+http://221.179.136.150/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226337/1.m3u8
 #EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视",东南卫视
 http://10.0.0.1:8012/rtp/225.1.0.170:1025
 #EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="卫视",甘肃卫视
@@ -125,15 +125,4 @@ http://10.0.0.1:8012/rtp/225.1.0.148:1025
 http://10.0.0.1:8012/rtp/225.1.0.149:1025
 #EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV%E6%96%B0%E9%97%BB.png" group-title="省内频道",BTV新闻
 http://10.0.0.1:8012/rtp/225.1.0.150:1025
-#EXTINF:-1 tvg-id="1427" tvg-name="山东齐鲁" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_qilu.png" group-title="省内频道",齐鲁卫视
-http://120.221.5.166:8089/ucdn.sd.chinamobile.com/2/00/SNM/CHANNEL00000313/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="1430" tvg-name="山东公共" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_gonggong.png" group-title="省内频道",山东公共
-http://120.221.5.178:8089/ucdn.sd.chinamobile.com/2/00/SNM/CHANNEL00000314/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="1433" tvg-name="山东综艺" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_zongyi.png" group-title="省内频道",山东综艺
-http://120.221.5.178:8089/ucdn.sd.chinamobile.com/2/00/SNM/CHANNEL00000338/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="1428" tvg-name="山东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_tiyu.png" group-title="省内频道",山东体育
-http://120.221.44.101:8089/PLTV/88888888/224/3221226075/index.m3u8
-#EXTINF:-1 tvg-id="1434" tvg-name="山东生活" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_shenghuo.png" group-title="省内频道",山东生活
-http://120.221.5.102:8089/PLTV/88888888/224/3221225841/index.m3u8
-#EXTINF:-1 tvg-id="1432" tvg-name="山东影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_yingshi.png" group-title="省内频道",山东影视
-http://120.221.5.113:8089/PLTV/88888888/224/3221226044/index.m3u8
+
