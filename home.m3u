@@ -51,8 +51,6 @@ http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226508/1.m3u8
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226495/1.m3u8
 #EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视",辽宁卫视
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226500/1.m3u8
-#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视
-http://10.0.0.1:8012/rtp/225.1.0.179:1025
 #EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226501/1.m3u8
 #EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视",天津卫视
@@ -125,7 +123,3 @@ http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226561/1.m3u8
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226562/1.m3u8
 #EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV%E6%96%B0%E9%97%BB.png" group-title="北京",BTV新闻
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226437/1.m3u8
-#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="北京",BTV冬奥纪实超高清4K SDR
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226564/1.m3u8
-#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="北京",BTV冬奥纪实超高清4K HDR
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226563/1.m3u8
